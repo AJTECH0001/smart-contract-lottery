@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Raffle",
+  "sourceName": "contracts/Raffle.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220445323c8959c47befb48c83312038e1bba5bea0bf0fcdffba84a8c3a6165045264736f6c63430008140033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220445323c8959c47befb48c83312038e1bba5bea0bf0fcdffba84a8c3a6165045264736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
